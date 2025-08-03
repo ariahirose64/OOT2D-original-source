@@ -19,5 +19,5 @@ builds we still have.
 # what can be done now?
 the engine doesnt hard lock sprites as i used builds for quick testing when doing art. it also might run.
 
-#are they safe?
+# are they safe?
 it isnt malware but if you care about memory safety you probably can guess considering the age range of the programmers.
